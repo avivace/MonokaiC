@@ -1,10 +1,10 @@
 # monokaiC
-A monokai theme for the [MarkdownEditing](https://github.com/SublimeText-Markdown/MarkdownEditing) package for Sublime Text 3 providing both **coloured** and **text-style preview** for Markdown.
+A monokai theme for the [MarkdownEditing](https://github.com/SublimeText-Markdown/MarkdownEditing) package for Sublime Text 3 providing both **Coloured** and **text-style preview** for Markdown.
 
 ## Install
-Copy the `ME-MonokaiC.tmTheme` file from this repo to the User Package folder (on Linux is `~/.config/sublime-text-3/Packages/User/`).
+Clone this repo (`git clone https://github.com/avivace/monokaiC`) and copy `ME-MonokaiC.tmTheme` to the Sublime Text User Package folder (`~/.config/sublime-text-3/Packages/User/` on Linux).
 
-Open your preferred Markdown User setting file from `Preferences > Package Settings >  Markdown Editing > Markdown (Standard) Settings - USER` (works with MultiMarkdown and Markdown GFM too).
+Open your preferred MarkdownEditing User setting file from `Preferences > Package Settings >  Markdown Editing > Markdown (Standard) Settings - USER` (works with MultiMarkdown and Markdown GFM too).
 
 Enable the theme:
 
