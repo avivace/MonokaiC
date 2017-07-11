@@ -1,4 +1,4 @@
-# [![monokaiC](logo.png)](https://github.com/avivace/monokaiC)
+# <img src="logo.png" alt="monokaiC" style="width: 45%"/>
 
 A monokai theme for the [MarkdownEditing](https://github.com/SublimeText-Markdown/MarkdownEditing) package for Sublime Text 3 providing both **Coloured** and **text-style preview** for Markdown.
 
