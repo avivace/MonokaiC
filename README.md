@@ -1,4 +1,5 @@
-# monokaiC
+# [![monokaiC](logo.png)](https://github.com/avivace/monokaiC)
+
 A monokai theme for the [MarkdownEditing](https://github.com/SublimeText-Markdown/MarkdownEditing) package for Sublime Text 3 providing both **Coloured** and **text-style preview** for Markdown.
 
 ## Install
