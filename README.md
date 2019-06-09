@@ -1,4 +1,4 @@
-# <img src="logo.png" alt="monokaiC" width="400px"/>
+# <img src=".meta/logo.png" alt="monokaiC" width="400px"/>
 
 A monokai theme for the [MarkdownEditing](https://github.com/SublimeText-Markdown/MarkdownEditing) package for Sublime Text 3 providing both **Coloured** and **text-style preview** for Markdown.
 
@@ -23,4 +23,4 @@ Enable the theme:
 ```
 
 ## Preview
-![example image](screenshot.png)
+![example image](.meta/screenshot.png)
