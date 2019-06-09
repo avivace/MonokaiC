@@ -18,7 +18,7 @@ First, install [MarkdownEditing](https://github.com/SublimeText-Markdown/Markdow
 ```bash
 git clone https://github.com/avivace/monokaiC ~/.config/sublime-text-3/Packages/monokaiC
 ```
->> Change the target directory with `~/Library/Application\ Support/Sublime\ Text\ 3/Packages/monokaiC` on OS X and `%appdata%\Sublime Text 3\Packages\monokaiC` on Windows.
+> Change the target directory with `~/Library/Application\ Support/Sublime\ Text\ 3/Packages/monokaiC` on OS X and `%appdata%\Sublime Text 3\Packages\monokaiC` on Windows.
 
 To enable the theme, open your preferred MarkdownEditing User setting file from `Preferences > Package Settings >  Markdown Editing > Markdown GFM Settings - USER` (works with MultiMarkdown and Markdown Standard too) and put this:
 
