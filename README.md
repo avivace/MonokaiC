@@ -6,19 +6,26 @@ A monokai theme for the [MarkdownEditing](https://github.com/SublimeText-Markdow
 
 First, install [MarkdownEditing](https://github.com/SublimeText-Markdown/MarkdownEditing).
 
-Clone this repo (`git clone https://github.com/avivace/monokaiC`) and copy `ME-MonokaiC.tmTheme` to the Sublime Text User Package folder (`~/.config/sublime-text-3/Packages/User/` on Linux , `~/Library/Application\ Support/Sublime\ Text\ 3/Packages/User/` on OS X and `%appdata%\Sublime Text 3\Packages\User` on Windows`).
+### Package Control
 
-Open your preferred MarkdownEditing User setting file from `Preferences > Package Settings >  Markdown Editing > Markdown GFM Settings - USER` (works with MultiMarkdown and Markdown Standard too).
+- `Ctrl/Command + Shift + P` to open the Command Palette
+- Select `Package Control: Install Package`
+- Search for `monokaiC`
+- Press `Enter`
 
-Enable the theme:
+### Manual
 
-```json
+```bash
+git clone https://github.com/avivace/monokaiC ~/.config/sublim
+e-text-3/Packages/monokaiC
+```
+(`~/Library/Application\ Support/Sublime\ Text\ 3/Packages/monokaiC` on OS X and `%appdata%\Sublime Text 3\Packages\monokaiC` on Windows`)
+
+To enable the theme, open your preferred MarkdownEditing User setting file from `Preferences > Package Settings >  Markdown Editing > Markdown GFM Settings - USER` (works with MultiMarkdown and Markdown Standard too) and put this:
+
+```
 {
-    "color_scheme": "Packages/User/ME-MonokaiC.tmTheme",
-    "extensions":
-    [
-        "md"
-    ]
+    "color_scheme": "Packages/monokaiC/themes/ME-MonokaiC.tmTheme",
 }
 ```
 
