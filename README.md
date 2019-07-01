@@ -1,5 +1,7 @@
 # <img src=".meta/logo.png" alt="monokaiC" width="400px"/>
 
+[![Package Control](https://img.shields.io/packagecontrol/dt/MonokaiC.svg?style=flat-square)](https://packagecontrol.io/packages/MonokaiC)
+
 A monokai theme for the [MarkdownEditing](https://github.com/SublimeText-Markdown/MarkdownEditing) package for Sublime Text 3 providing both **Coloured** and **text-style preview** for Markdown.
 
 ## Install
