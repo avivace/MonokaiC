@@ -4,7 +4,7 @@
 
 A monokai theme for the [MarkdownEditing](https://github.com/SublimeText-Markdown/MarkdownEditing) package for Sublime Text 3 providing both **Coloured** and **text-style preview** for Markdown.
 
-![](.meta/screen1.png)
+![](.meta/screen2.png)
 
 ## Install
 
