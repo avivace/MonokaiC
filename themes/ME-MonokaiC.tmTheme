@@ -624,7 +624,7 @@
                 <dict>
                     <!--<key>background</key><string>#06cdcd</string>-->
                     <key>foreground</key>
-                    <string>#555555</string>
+                    <string>#909090</string>
                 </dict>
             </dict>
             <dict>
@@ -705,7 +705,7 @@
                     <key>background</key>
                     <string>#44444422</string>
                     <key>foreground</key>
-                    <string>#555555</string>
+                    <string>#909090</string>
                 </dict>
             </dict>
             <dict>
@@ -716,7 +716,7 @@
                 <key>settings</key>
                 <dict>
                     <key>foreground</key>
-                    <string>#666666</string>
+                    <string>#909090</string>
                 </dict>
             </dict>
             <dict>
@@ -789,7 +789,7 @@
                     <key>background</key>
                     <string>#212121</string>
                     <key>foreground</key>
-                    <string>#888888</string>
+                    <string>#929292</string>
                 </dict>
             </dict>
             <dict>
