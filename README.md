@@ -22,11 +22,13 @@ git clone https://github.com/avivace/monokaiC ~/.config/sublime-text-3/Packages/
 ```
 > Change the target directory with `~/Library/Application\ Support/Sublime\ Text\ 3/Packages/monokaiC` on OS X and `%appdata%\Sublime Text 3\Packages\monokaiC` on Windows.
 
+### Activation
+
 To enable the theme, open your preferred MarkdownEditing User setting file from `Preferences > Package Settings >  Markdown Editing > Markdown GFM Settings - USER` (works with MultiMarkdown and Markdown Standard too) and put this:
 
 ```
 {
-    "color_scheme": "Packages/monokaiC/themes/ME-MonokaiC.tmTheme",
+    "color_scheme": "Packages/MonokaiC/themes/ME-MonokaiC.tmTheme",
 }
 ```
 
