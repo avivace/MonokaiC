@@ -37,6 +37,6 @@ To enable the theme, open your preferred MarkdownEditing User setting file from 
 Be sure to Set Syntax -> MarkdownEditing -> Markdown GFM on your Markdown files
 
 ## Preview
-![](.meta/screen2.png)
+![](.meta/screen1.png)
 
 ![example image](.meta/screenshot.png)
