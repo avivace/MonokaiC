@@ -33,6 +33,8 @@
                     <!-- #131313 -->
                     <key>caret</key>
                     <string>#00bbff</string>
+                    <key>blockCaret</key>
+                    <string>#00bbff85</string>
                     <key>foreground</key>
                     <string>#dddddd</string>
                     <key>invisibles</key>
